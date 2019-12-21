@@ -1,0 +1,4 @@
+#Mon Dec 02 22:58:35 EET 2019
+base.0=C\:\\Users\\pc\\Desktop\\udemy-react-native\\TwitterKlon\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
